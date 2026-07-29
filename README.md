@@ -1,4 +1,4 @@
-# Teste para Estagiário de Analytics Quod
+# Teste para Estagiário de Analytics
 
 ## Estrutura do Repositório
 - `analise_vendas.ipynb`: Notebook principal com todo o código Python para simulação, limpeza, análise e execução das consultas SQL.
